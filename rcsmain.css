@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+
+h1 { 
+ 
+font-family: helvetica; 
+font-weight: bold; 
+}
+
+
+h2 { 
+ 
+font-family: helvetica; 
+font-weight: bold; 
+}
+
+
+h3 { 
+ 
+font-family: helvetica; 
+font-weight: bold; 
+}
+
+
+body { 
+ 
+font-family: helvetica; 
+font-weight:normal;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+
+
+
+
+.foot {
+	font-family: times; 
+font-weight:lighter;	
+	text-align: right;
+	padding-right: 30px;
+
+}
+
+
+
+.container { 
+    width: 780px; 
+    background: #FFFFFF; 
+    margin: auto;
+    text-align: left; 
+}
+
+
+#navhead { 
+    width: 780px; 
+    background: #1BA2CE; 
+    margin: auto;
+    text-align: left; 
+}
+
+
+#headlogo {
+	align-content: center;
+	text-align: center;
+	
+	
+}
+
+
+.titletext {
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	background: #EA6D0E
+}
+
+
+.maincontent{
+	background: #AFAFAF;
+}
